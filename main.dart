@@ -4,5 +4,6 @@ void main() {
   print('');
   print('qwe');
   print('wdwd');
+  print('pull');
 
 }
