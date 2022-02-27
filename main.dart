@@ -3,5 +3,6 @@ void main() {
 
   print('');
   print('qwe');
-  wdwd;
+  print('wdwd');
+
 }
